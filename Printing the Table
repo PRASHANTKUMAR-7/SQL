@@ -1,0 +1,2 @@
+select * fron <table_name>;
+// "*" use for selecting all column from the table //
