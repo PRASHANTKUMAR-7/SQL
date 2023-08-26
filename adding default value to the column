@@ -1,2 +1,3 @@
 ALTER TABLE <table_name> ADD COLUMN <column_name> <data_type> DEFAULT <default_value>;
-
+ALTER TABLE employee
+ADD COLUMN Hourly_Pay INT default 100;
