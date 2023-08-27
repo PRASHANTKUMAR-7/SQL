@@ -1,1 +1,2 @@
 Delete from <TABLE_NAME> where <CONDITION>;
+EG:-Delete from employee where Department="Hr";
