@@ -1,0 +1,5 @@
+INSERT INTO <TABLE_NAME>(<COLUMN1>,<COLUMN2>,<COLUMN3>,<COLUMN4>)
+VALUES  (1, 'John Smith', 25,  '123 Main St'),
+        (2, 'Sarah Johnson', 30,'456 Broadway'),
+        (3, 'Michael Brown', 45,  '132 Main Str'),
+        (4, 'Jessica Davis', 28,  '321 Elm St');
