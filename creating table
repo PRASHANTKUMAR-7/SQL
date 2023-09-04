@@ -1,2 +1,4 @@
-create table <table_name>( <column1_name> <data_type>,<column2_name> <data_type>,<column2_name> <data_type>);
-create table employee(EMPNO INT, ENAME TEXT, JOB VARCHAR(20),HIRDATE DATE, MGR INT;
+create table <table_name>( <column1_name> <data_type>,<column2_name> <data_type>,
+<column2_name> <data_type>);
+create table employee(EMPNO INT, ENAME TEXT, JOB VARCHAR(20),HIRDATE DATE, 
+MGR INT SAL INT, COMM INT DEPTNO INT;
