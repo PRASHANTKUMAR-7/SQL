@@ -1,1 +1,2 @@
 select <column_name> from <table_name>;
+select ENAME from employee;
