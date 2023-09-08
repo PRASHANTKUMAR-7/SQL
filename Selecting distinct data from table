@@ -1,2 +1,3 @@
 select Distinct <column_name> from <table_name>;
 select Distinct Depatment from employee;
+select Distinct Ename from employee;
