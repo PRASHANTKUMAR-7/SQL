@@ -1,2 +1,2 @@
 select <column1>, <column2>, <column3> from <table_name>;
-SELECT ENAME, JOB FROM EMPLOYEE;
+SELECT ENAME, JOB, HIREDATE FROM EMPLOYEE;
